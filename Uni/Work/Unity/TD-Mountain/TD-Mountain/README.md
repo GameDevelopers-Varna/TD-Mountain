@@ -7,7 +7,7 @@ Our very first game as a team
 	3. *git config --global user.name "Your Name"*
 	4. *git config --global user.email "your_email@whatever.com"*
 	5. navigate to where you wish to store the repo
-	6. *git clone https://github.com/Elfenwolf/NiN-Code.git*
+	6. *git clone https://github.com/GameDevelopers-Varna/TD-Mountain.git*
 
 # Putting your code on git
   1. _git add *_
